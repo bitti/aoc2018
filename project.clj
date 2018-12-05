@@ -1,4 +1,4 @@
-(defproject aoc2017 "0.1.0-SNAPSHOT"
+(defproject aoc2018 "0.1.0-SNAPSHOT"
   :description "My attempts for Advent of Code 2018"
   :url "https://github.com/bitti/aoc2018"
   :license {:name "Eclipse Public License"
